@@ -3,3 +3,6 @@
 
 # Jupyter Checkpoints
 .ipynb_checkpoints/
+
+# Neofetch for some unknow reason
+.nf
