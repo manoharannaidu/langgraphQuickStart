@@ -6,3 +6,6 @@
 
 # Neofetch for some unknow reason
 .nf
+
+# Pyenv files
+.python-version
