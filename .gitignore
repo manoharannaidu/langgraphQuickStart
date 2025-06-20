@@ -9,3 +9,6 @@
 
 # Pyenv files
 .python-version
+
+#
+apiKeys.txt
